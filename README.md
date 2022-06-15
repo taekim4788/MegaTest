@@ -8,10 +8,9 @@ Code written to do upload/remove/restore on Mega drive
 
 # Installation
 * Download the file and locate in on local folder
-* Download Maven into project directory https://maven.apache.org/download.cgi
 
 # Running Test
-Go to your project directory from terminal and hit following commands
+Go to your project directory(dlownloaded location) from terminal and hit following commands
 
 * mvn verify
 
